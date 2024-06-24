@@ -1,0 +1,31 @@
+Assignment
+Brief
+Add the following features into the React web app:
+
+Add new columns to the ViewList table:
+quantity
+discount
+Show the total price for each item row, including discount
+Show the sum total of all items in the table
+Show and compare sum with discount savings, in actual $
+Some tips:
+
+Keep all calculations (business logic) in the higher-order Product component
+Update ViewList when adding new table columns
+As much as possible, keep the container and presentational components separated
+Submission
+Submit the URL of the GitHub Repository that contains your work to NTU black board.
+Should you reference the work of your classmate(s) or online resources, give them credit by adding either the name of your classmate or URL.
+References
+Example of Referencing Classmate
+
+Referenced the code block below from Terence.
+
+    function printMe(){
+        console.log("I am a reference example");
+    }
+Example of Referencing Online Resources
+
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com/html/
+https://stackoverflow.com/questions/14494747/how-to-add-ima
